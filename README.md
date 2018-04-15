@@ -1,3 +1,3 @@
 # My Way of kubernetes
 
-## Installing Kubernetes
+## [Installing Kubernetes](./01.Installing Kubernetes)
